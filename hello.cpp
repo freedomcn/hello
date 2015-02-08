@@ -8,7 +8,7 @@ using namespace std;
 #if 0
 int main()
 {
-	//TODO: please print VERSION first
+    cout << VERSION << endl;
     cout << "hello" << endl;
     return 0;
 }
